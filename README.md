@@ -1,20 +1,18 @@
 <!-- kapsca-brand v1 (vendored copy of KapsCa/kapsca-brand; do not edit manually) -->
-<p align="center"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/brand/kapsca-512.png">
-  <source media="(prefers-color-scheme: light)" srcset="assets/brand/kapsca-mono-white.svg">
-  <img src="assets/brand/kapsca-512.png" alt="KapsCa" width="96">
-</picture></p>
 <p align="center"><img src="assets/brand/banner.png" alt="KapsCa" width="700"></p>
 <!-- /kapsca-brand -->
 
-<div align="center">
+# Creador de marcas 🎛️
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+Un creador de **imágenes para publicaciones**: le das la idea y devuelve piezas listas para redes, sin abrir un editor.
 
-  <h1>Built with AI Studio</h2>
+Herramienta creada durante el **curso de creación de apps con IA de Google**.
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+## Qué hace
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+- Genera imágenes para publicaciones a partir de una descripción corta.
+- Pensada para iterar rápido: probar variantes y quedarse con la mejor.
 
-</div>
+## Estado
+
+**En pausa.** Por ahora el repositorio tiene solo la documentación y los assets: el código todavía no está publicado acá.
